@@ -1,6 +1,4 @@
 # winget_myconf
-Test  
-# My Base System
-Windows 11 Home 64bit  
-Miniconda3  
-Python 3.9  
+Force winget to install applications in ja-JP.    
+# My wishlist for winget
+Disable creating desktop shortcuts when you upgrade applications via winget.  
