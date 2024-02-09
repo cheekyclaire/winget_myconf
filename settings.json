@@ -7,7 +7,7 @@
     // },
     "installBehavior": {
         "preferences": {
-            "locale": [ "ja-JP" ]
+            "locale": [ "ja-JP", "en-US" ]
         }
     },
 }
